@@ -4,7 +4,7 @@ class ATMTransaction{
     public $date;
     public $type;
     public $amount;
-    public $post_balance
+    public $post_balance;
     public function modifies(){
 
     }
