@@ -33,7 +33,7 @@ m1=1
 m2=1,2
 Has &gt;</panel_attributes><additional_attributes>10;10;10;100;150;100</additional_attributes></element><element><id>UMLClass</id><coordinates><x>600</x><y>230</y><w>120</w><h>130</h></coordinates><panel_attributes>ATM Transactions
 --
-+tansaction_id
++transaction_id
 +date
 +type
 +amount
